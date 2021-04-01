@@ -1,0 +1,2 @@
+name = "fukui"
+puts name
